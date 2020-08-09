@@ -4,9 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h2>This is a simple vote calculator example which increments count on every click</h2>
 
+<p>
+  <a class="btn btn-large btn-purple" target="_blank" href="https://basic-voting.netlify.app/" role="button">Go Live🐱‍🏍</a>
+  
+</p>
 
- [Watch live🐱‍🏍](https://basic-voting.netlify.app/)
 
-### `npm start`
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
