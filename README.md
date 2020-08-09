@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 <p>
-  <a class="btn"target="_blank" href="https://basic-voting.netlify.app/" role="button">Go Live🐱‍🏍</a>
+  <a class="btn btn-primary " target="_blank" href="https://basic-voting.netlify.app/" role="button">Go Live🐱‍🏍</a>
   
 </p>
 
