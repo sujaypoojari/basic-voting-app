@@ -26,7 +26,9 @@ class App extends Component {
             <div key={i} className="language">
               <div className="voteCount">{lang.votes}</div>
               <div className="languageName">{lang.name}</div>
-              <button onClick={this.vote.bind(this, i)}>Vote</button>
+              <button className="btn" onClick={this.vote.bind(this, i)}>
+                Vote
+              </button>
             </div>
           ))}
         </div>
