@@ -1,4 +1,6 @@
 <h2>This is a simple vote calculator example which increments count on every click</h2>
+<p>Built with React.js❤</p>
+
 
 
 
