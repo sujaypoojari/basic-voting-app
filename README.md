@@ -4,7 +4,7 @@
 
 
 <p>
-  <a class="btn btn-primary " target="_blank" href="https://basic-voting.netlify.app/" role="button">Go Live🐱‍🏍</a>
+  <a class="btn btn-primary " target="_blank" href="https://basic-voting.netlify.app/" ><img src="https://github.com/sujaypoojari/basic-voting-app/blob/master/public/golive.svg" ></a>
   
 </p>
 
